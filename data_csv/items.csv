@@ -1,0 +1,35 @@
+﻿item_id,SKU,item_name,item_cat,item_size,item_price
+1,KAD001,Kadara Bag - Red,Bag,Large,120
+2,KAD002,Kadara Bag - Red,Bag,Medium,80
+3,KAD003,Kadara Bag - Red,Bag,Small,45
+4,KAD004,Kadara Bag - Pink,Bag,Large,120
+5,KAD005,Kadara Bag - Pink,Bag,Medium,80
+6,KAD006,Kadara Bag - Pink,Bag,Small,45
+7,KAD007,Kadara Bag - Yellow,Bag,Large,120
+8,KAD008,Kadara Bag - Yellow,Bag,Medium,80
+9,KAD009,Kadara Bag - Yellow,Bag,Small,45
+10,KAD010,Kadara Bag - Green,Bag,Large,120
+11,KAD011,Kadara Bag - Green,Bag,Medium,80
+12,KAD012,Kadara Bag - Green,Bag,Small,45
+13,KAD013,Kadara Bag - Blue,Bag,Large,120
+14,KAD014,Kadara Bag - Blue,Bag,Medium,80
+15,KAD015,Kadara Bag - Blue,Bag,Small,45
+16,KAD016,Kadara Bag - Black,Bag,Large,120
+17,KAD017,Kadara Bag - Black,Bag,Medium,80
+18,KAD018,Kadara Bag - Black,Bag,Small,45
+19,KAD019,Kadara Bag - White,Bag,Large,120
+20,KAD020,Kadara Bag - White,Bag,Medium,80
+21,KAD021,Kadara Bag - White,Bag,Small,45
+22,KAD022,Kadara Bag - Purple,Bag,Large,120
+23,KAD023,Kadara Bag - Purple,Bag,Medium,80
+24,KAD024,Kadara Bag - Purple,Bag,Small,45
+25,KAD025,Kadara Bag - Grey,Bag,Large,120
+26,KAD026,Kadara Bag - Grey,Bag,Medium,80
+27,KAD027,Kadara Bag - Grey,Bag,Small,45
+28,PAT001,Digital Crochet Pattern - Hat,Digital,,10
+29,PAT002,Digital Crochet Pattern - bead shorts,Digital,,12
+30,PAT003,Digital Crochet Pattern - jumper,Digital,,8
+31,PAT004,Digital Crochet Pattern - scrunchie,Digital,,15
+32,PAT005,Digital Crochet Pattern - kadara top,Digital,,10
+33,PAT006,Digital Crochet Pattern - kadara shorts,Digital,,5
+34,PAT007,Digital Crochet Pattern - kadara set,Digital,,15

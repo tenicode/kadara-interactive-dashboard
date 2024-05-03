@@ -1,0 +1,10 @@
+﻿add_id,delivery_address1,delivery_address2,delivery_city,delivery_postcode
+1,123 Main St,Apt 1,New York,10001
+2,456 Elm St,,Los Angeles,90012
+3,789 Oak Ave,,Chicago,60611
+4,101 Pine St,Suite 3,Miami,33130
+5,222 Maple Rd,,Edinburgh,EH1 1DE
+6,333 Cherry Ln,Apt 2,Cardiff,CF1 1EF
+7,444 Walnut Ave,,Belfast,BT1 1FG
+8,555 Cedar St,,Liverpool,L1 1GH
+9,666 Pineapple Ave,,Bristol,BS1 1HI
