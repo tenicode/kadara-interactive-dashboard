@@ -1,4 +1,4 @@
 # **Kadara Studio Interactive Dashboard**
 
-<div style="text-align: center;">
-  <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/d60a76cb-539f-4180-a18a-f8b0ebdb2f34/page/p_2vrfjmkxgd" frameborder="
+<div <iframe width="900" height="675" src="https://lookerstudio.google.com/embed/reporting/d60a76cb-539f-4180-a18a-f8b0ebdb2f34/page/p_2vrfjmkxgd" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+</div>
